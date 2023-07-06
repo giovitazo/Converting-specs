@@ -1,0 +1,566 @@
+{
+  "groups": {
+    "Multi-Channel-Surround": {
+      "props": [
+        {
+          "name": "DTS HD Master / DTS:X",
+          "value": "Ja / Ja"
+        },
+        {
+          "name": "DTS:X Pro",
+          "value": "Nein"
+        },
+        {
+          "name": "DTS Neo:X / DTS Neural:X",
+          "value": "Nein / Ja"
+        },
+        {
+          "name": "DTS Virtual:X",
+          "value": "Ja"
+        },
+        {
+          "name": "Dolby TrueHD / Dolby Atmos",
+          "value": "Ja / Ja"
+        },
+        {
+          "name": "Dolby ProLogic II / Dolby Surround",
+          "value": "Nein / Ja"
+        },
+        {
+          "name": "Dolby Height Virtualization",
+          "value": "Ja"
+        },
+        {
+          "name": "Front Wide Speakers: Dolby / DTS",
+          "value": "Nein"
+        },
+        {
+          "name": "Auro 3D",
+          "value": "Nein"
+        },
+        {
+          "name": "IMAX Enhanced",
+          "value": "Nein"
+        },
+        {
+          "name": "MPEG-H",
+          "value": "Nein"
+        },
+        {
+          "name": "Mehrkanal Stereo",
+          "value": "Ja"
+        },
+        {
+          "name": "max. Anzahl der Processing (Vorverstärker)-Kanäle",
+          "value": "7.1"
+        }
+      ],
+      "sortOrder": "1",
+      "name": "Multi-Channel-Surround"
+    },
+    "Sound-Technologien": {
+      "props": [
+        {
+          "name": "Monoblock-Endstufen-Aufbau",
+          "value": "Nein"
+        },
+        {
+          "name": "Diskrete Endstufen",
+          "value": "7"
+        },
+        {
+          "name": "110th Anniversary Audio Tuning",
+          "value": "Nein"
+        },
+        {
+          "name": "Iron diecast feet",
+          "value": "Nein"
+        },
+        {
+          "name": "Copper plated transformer base",
+          "value": "Nein"
+        },
+        {
+          "name": "Premium speaker terminals",
+          "value": "Nein"
+        },
+        {
+          "name": "All black interior",
+          "value": "Nein"
+        },
+        {
+          "name": "D.D.S.C. HD Digital",
+          "value": "Nein"
+        },
+        {
+          "name": "Pure Direct",
+          "value": "Ja"
+        },
+        {
+          "name": "Hochwertige Audiokomponenten",
+          "value": "Ja"
+        },
+        {
+          "name": "Goldbeschichtete Cinch-Buchsen",
+          "value": "Nein"
+        },
+        {
+          "name": "Clock Jitter Reducer",
+          "value": "Nein"
+        },
+        {
+          "name": "Alpha Processing",
+          "value": "Nein"
+        },
+        {
+          "name": "Audyssey",
+          "value": "MultEQ XT"
+        },
+        {
+          "name": "Audyssey Dynamic EQ / Dynamic Volume",
+          "value": "Ja / Ja"
+        },
+        {
+          "name": "Audyssey LFC",
+          "value": "Nein"
+        },
+        {
+          "name": "Audyssey APP Support",
+          "value": "Ja"
+        },
+        {
+          "name": "Speaker Setup Presets",
+          "value": "2"
+        },
+        {
+          "name": "Compressed Audio Restorer",
+          "value": "Ja"
+        }
+      ],
+      "sortOrder": "2",
+      "name": "Sound-Technologien"
+    },
+    "Netzwerk": {
+      "props": [
+        {
+          "name": "HEOS Multiroom and Streaming",
+          "value": "Ja"
+        },
+        {
+          "name": "Datenreduzierte Formate: MP3 / WMA / AAC",
+          "value": "Ja / Ja / Ja"
+        },
+        {
+          "name": "Verlustfreie Formate: FLAC / ALAC / WAV",
+          "value": "Ja / Ja / Ja"
+        },
+        {
+          "name": "DSD Audio-Streaming",
+          "value": "up to DSD5.6"
+        },
+        {
+          "name": "FLAC HD 192/24",
+          "value": "Ja"
+        },
+        {
+          "name": "WAV 192/24",
+          "value": "Ja"
+        },
+        {
+          "name": "ALAC 192/24",
+          "value": "Ja"
+        },
+        {
+          "name": "Gapless Wiedergabe",
+          "value": "Ja (FLAC, WAV, ALAC, DSD)"
+        },
+        {
+          "name": "AirPlay 2",
+          "value": "Ja"
+        },
+        {
+          "name": "Roon Tested",
+          "value": "Ja"
+        },
+        {
+          "name": "Internetradio",
+          "value": "TuneIn"
+        },
+        {
+          "name": "Spotify Connect* / Tidal* / Deezer* / others *",
+          "value": "Ja / Ja / Ja / Ja"
+        },
+        {
+          "name": "Amazon Prime Music* / Pandora*",
+          "value": "Ja / Ja"
+        },
+        {
+          "name": "Kompatibel mit Remote APP für Smartphones",
+          "value": "Android / iOS"
+        },
+        {
+          "name": "Kompatibel mit Remote APP für Tablets",
+          "value": "Android / iOS/Amazon Kindle"
+        },
+        {
+          "name": "Ethernet-Anschlüsse",
+          "value": "Ja"
+        },
+        {
+          "name": "W-LAN",
+          "value": "Ja"
+        },
+        {
+          "name": "Bluetooth Headphone transmission",
+          "value": "Ja"
+        }
+      ],
+      "sortOrder": "3",
+      "name": "Netzwerk"
+    },
+    "HDMI": {
+      "props": [
+        {
+          "name": "HDMI Eingänge: hinten / vorn",
+          "value": "6 / 0"
+        },
+        {
+          "name": "HDCP2.3 Unterstützung",
+          "value": "Ja"
+        },
+        {
+          "name": "HDMI Ausgänge: Hauptzone / Zone",
+          "value": "2 / Nein"
+        },
+        {
+          "name": "HDMI max Resolution (8k / 4k)",
+          "value": "8k/60 - 4k/120**"
+        },
+        {
+          "name": "Video-Konvertierung Analog auf HDMI",
+          "value": "Nein"
+        },
+        {
+          "name": "HDMI zu HDMI-Skalierung",
+          "value": "up to 8K 60/50"
+        },
+        {
+          "name": "HDMI: 8K / 4K / CEC / eARC",
+          "value": "Ja / Ja / Ja / Ja"
+        },
+        {
+          "name": "HDMI: Dolby Vision / HDR 10+ / Dynamic HDR / HLG",
+          "value": "Ja / Ja / Ja / Ja"
+        },
+        {
+          "name": "HDMI: ALLM / QMS / QFT / VRR",
+          "value": "Ja / Ja / Ja / Ja"
+        },
+        {
+          "name": "HDMI Pass Through im Standby-Modus",
+          "value": "Ja"
+        },
+        {
+          "name": "DSD Audio",
+          "value": "Nein"
+        }
+      ],
+      "sortOrder": "4",
+      "name": "HDMI"
+    },
+    "Multiroom / Installer": {
+      "props": [
+        {
+          "name": "HEOS Multiroom integrated",
+          "value": "Ja"
+        },
+        {
+          "name": "TV Sound grouping",
+          "value": "Ja"
+        },
+        {
+          "name": "Anzahl der Zonen (inkl. Hauptzone)",
+          "value": "2"
+        },
+        {
+          "name": "Main room multichanel audio - Zone stereo downmix",
+          "value": "Ja"
+        },
+        {
+          "name": "Zonen-Audioquelle: HDMI / opt, koax / Netzwerk, USB / analog",
+          "value": "Ja (2ch) / Ja (2ch) / Ja / Ja"
+        },
+        {
+          "name": "Zonen-Audioausgänge: Lautsprecher / Preout",
+          "value": "Ja / Ja"
+        },
+        {
+          "name": "Zonen HDMI Ausgang von HDMI-Quellen",
+          "value": "Nein"
+        },
+        {
+          "name": "Webbrowser Setup",
+          "value": "Ja"
+        },
+        {
+          "name": "IP-Steuerung / RS232-Steuerung / Web Control / App-Steuerung",
+          "value": "Ja / Nein / Ja / Ja"
+        },
+        {
+          "name": "Fernbedienungs-Ein- /Ausgang",
+          "value": "Nein / Nein"
+        },
+        {
+          "name": "DC Trigger-Ausgang",
+          "value": "Nein"
+        }
+      ],
+      "sortOrder": "5",
+      "name": "Multiroom / Installer"
+    },
+    "Sonstiges": {
+      "props": [
+        {
+          "name": "Voice Control - Works with Amazon Alexa",
+          "value": "Ja"
+        },
+        {
+          "name": "Voice Control - Google Assist / Apple Siri",
+          "value": "Ja / Ja"
+        },
+        {
+          "name": "Voice Control - Microphone built-in",
+          "value": "Nein"
+        },
+        {
+          "name": "Automatische Lautsprecherkonfiguration mit Einmess-Mikrofon",
+          "value": "Audyssey MultEQ XT"
+        },
+        {
+          "name": "FL-Display",
+          "value": "1 line"
+        },
+        {
+          "name": "Graphische Benutzeroberfläche (GUI)",
+          "value": "Advanced"
+        },
+        {
+          "name": "ISF-zertifiziert",
+          "value": "Ja"
+        },
+        {
+          "name": "GUI-Sprachen",
+          "value": "9"
+        },
+        {
+          "name": "Einrichtungsassistent",
+          "value": "Ja"
+        },
+        {
+          "name": "Quick Select Plus / Quick Select-Tasten",
+          "value": "Ja / Nein"
+        },
+        {
+          "name": "Firmware-Update über Netzwerk / USB",
+          "value": "Ja / Ja"
+        },
+        {
+          "name": "Variable Übergangsfrequenz",
+          "value": "Ja"
+        },
+        {
+          "name": "Optimierte Bassumleitung",
+          "value": "Ja"
+        },
+        {
+          "name": "Bass-Synchronisierung",
+          "value": "Nein"
+        },
+        {
+          "name": "ECO-Modus",
+          "value": "Ja"
+        },
+        {
+          "name": "Automatische Abschaltung",
+          "value": "Ja"
+        },
+        {
+          "name": "Sleeptimer",
+          "value": "Ja"
+        }
+      ],
+      "sortOrder": "6",
+      "name": "Sonstiges"
+    },
+    "Eingänge / Ausgänge": {
+      "props": [
+        {
+          "name": "Composite Ein-/Ausgang",
+          "value": "2 / 1"
+        },
+        {
+          "name": "Component Ein-/ Ausgang",
+          "value": "2 / 1"
+        },
+        {
+          "name": "HDMI Ein- / Ausgänge",
+          "value": "6 / 2"
+        },
+        {
+          "name": "Multi-Room Video-Ausgang: Video / HDMI",
+          "value": "Nein / Nein"
+        },
+        {
+          "name": "Analog Ein-/ Ausgang",
+          "value": "4 / Nein"
+        },
+        {
+          "name": "Phono (MM)-Eingang",
+          "value": "Ja"
+        },
+        {
+          "name": "Digitaleingänge: optisch / koaxial",
+          "value": "2 / 0"
+        },
+        {
+          "name": "Zonen-Ausgänge: analog / digital",
+          "value": "1 / Nein"
+        },
+        {
+          "name": "Mehrkanal-Vorverstärker-Ausgang",
+          "value": "Ja (0.2)"
+        },
+        {
+          "name": "Subwoofer-Ausgänge",
+          "value": "2"
+        },
+        {
+          "name": "7.1  Multikanal-Eingang",
+          "value": "Nein"
+        },
+        {
+          "name": "Lautsprecher-Schraubklemmen goldbeschichtet / regulär",
+          "value": "Nein / Ja"
+        },
+        {
+          "name": "Anzahl der Lautsprecheranschlüsse",
+          "value": "7"
+        },
+        {
+          "name": "Lautsprecher A/B",
+          "value": "assignable"
+        },
+        {
+          "name": "Bi-Amp Betrieb",
+          "value": "assignable"
+        },
+        {
+          "name": "Zonen-Lautsprecher-Terminals",
+          "value": "assignable"
+        },
+        {
+          "name": "Front-Eingänge: Audio / Composite / Digital (Opt) / HDMI / USB",
+          "value": "Nein / Nein / Nein / Nein / Ja"
+        },
+        {
+          "name": "USB Audio / Made for iPod / Made for iPhone",
+          "value": "Ja / AirPlay / AirPlay"
+        },
+        {
+          "name": "DAB / DAB+ tuner",
+          "value": "Nein"
+        },
+        {
+          "name": "UKW-Tuner mit RDS",
+          "value": "Ja"
+        }
+      ],
+      "sortOrder": "7",
+      "name": "Eingänge / Ausgänge"
+    },
+    "Spezifikationen": {
+      "props": [
+        {
+          "name": "Anzahl der Leistungsverstärker",
+          "value": "7"
+        },
+        {
+          "name": "Ausgangsleistung (8 Ohm, 20 Hz - 20 kHz, 0.08% Klirr, 2-Kanal-Betrieb)",
+          "value": "95 W"
+        },
+        {
+          "name": "Ausgangsleistung (8 Ohm, 20 Hz - 20 kHz, 0.05% Klirr, 2-Kanal-Betrieb)",
+          "value": "Nein"
+        },
+        {
+          "name": "Ausgangsleistung (6 Ohm, 1 kHz, 0.7% Klirr, 2-Kanal-Betrieb)",
+          "value": "125 W"
+        },
+        {
+          "name": "Ausgangsleistung (6 Ohm, 1 kHz, 1% Klirr, 1-Kanal Betrieb)",
+          "value": "150 W"
+        }
+      ],
+      "sortOrder": "6",
+      "name": "Spezifikationen"
+    },
+    "Allgemein": {
+      "props": [
+        {
+          "name": "Available Colours: Black / Premium Silver",
+          "value": "Ja / Nein"
+        },
+        {
+          "name": "Metallfront",
+          "value": "Nein"
+        },
+        {
+          "name": "Systemfernbedienung",
+          "value": "RC-1239"
+        },
+        {
+          "name": "Fernbedienung vorprogrammiert / lernfähig / mit LCD-Display",
+          "value": "Nein / Nein / Nein"
+        },
+        {
+          "name": "Stromverbrauch in W",
+          "value": "500"
+        },
+        {
+          "name": "Stromverbrauch im Leerlauf (ECO an / aus) in Watt",
+          "value": "35 W / 75 W"
+        },
+        {
+          "name": "Standby-Stromverbrauch in W",
+          "value": "0.1"
+        },
+        {
+          "name": "CEC Standby-Stromverbrauch in Watt",
+          "value": "0.5"
+        },
+        {
+          "name": "Network Control On Consumption in W",
+          "value": "3.7"
+        },
+        {
+          "name": "Abmessungen<br/>  mit Antenne:Horizontal:(B x T x H) in mm<br/> ( Antenne:Vertical    :(B x T x H) in mm)<br/> 【 ohne Antenne   :(B x T x H) in mm】",
+          "value": "434 x 341 x 167<br/> ( 434 x 341 x 237 )<br/> 【 434 x 330 x 167 】"
+        },
+        {
+          "name": "Gewicht in kg",
+          "value": "9.5"
+        },
+        {
+          "name": "Carton Maximum Dimensions (W x D x H) in mm",
+          "value": "520 x 429 x 243"
+        },
+        {
+          "name": "Carton Weight (inc. product) in KG",
+          "value": "11.5"
+        }
+      ],
+      "sortOrder": "7",
+      "name": "Allgemein"
+    }
+  }
+}
