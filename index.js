@@ -40,7 +40,6 @@ function toObject() {
 
 let transform = document.getElementById("transform");
 transform.addEventListener("click", (e) => {
-  e.preventDefault();
   let htmlContent = document.getElementById("htmltable").value;
   let HTMLdisplay = document.getElementById("HTMLdisplay");
   let JSONresult = document.getElementById("JSONresult");
