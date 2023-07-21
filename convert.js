@@ -21,12 +21,17 @@ function toJSON(obj) {
   return objJSON;
 }
 
+function toSentenceCase(str) {
+  return str.toLowerCase().charAt(0).toUpperCase() + str.slice(1);
+}
+
 function toObject() {
   let obj = new FINALOBJECT();
   let fullTable = document.querySelectorAll(".spec-row");
   fullTable.forEach((group, sortOrder) => {
     // creates a group
     let name = group.querySelector(".h4").innerHTML;
+    name = toSentenceCase(name);
     obj.groups[name] = new OBJECTGROUP(name, sortOrder);
     let propertyPairs = group.querySelectorAll("tr"); // gets all the properties of that group
     propertyPairs.forEach((pairs) => {
