@@ -22,7 +22,12 @@ function toJSON(obj) {
 }
 
 function toSentenceCase(str) {
-  return str.toLowerCase().charAt(0).toUpperCase() + str.slice(1);
+  var newString = str
+    .toLowerCase()
+    .replace(/(^\s*\w|[\.\!\?]\s*\w)/g, function (c) {
+      return c.toUpperCase();
+    });
+  return newString;
 }
 
 function toObject() {
